@@ -19,6 +19,8 @@ When I'm not chasing the academic adrenaline, I'm in my coding playground. Check
 
 - [Project 2: Aspect-Based Sentiment Analysis](https://github.com/shashidhar0302/MPA7): Unveiling the sentiments hidden in the vast sea of Amazon US reviews.
 
+Take a look at my respositories to get a view of my experiments.
+
 ## My Resume 📄
 
 Curious about the nitty-gritty details? Take a peek at my [resume](./PSDS-Resume.pdf) to explore my educational journey, work experiences, and the tech adventures I've embarked on.
